@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1729513874,
+      "datetime": 1729868391,
       "size": 3952220737,
-      "filehash": "a4f44c45dad97e867dc263972e281c9ac2560788",
-      "filename": "pixelstar-3.4-uday-peridot-official-1224-20241024.zip",
-      "id": "d199d887218a0409f5f67965828f02f6dcb6cd68930fca92596a9a63aca71080",
+      "filehash": "19235d95f6b9e5586818563062752594",
+      "filename": "pixelstar-3.4-uday-peridot-official-1756-20241025.zip",
+      "id": "30d9090099feab6ba7c4cf5b154880006006d0d1c81a8fc143ca496275ea203",
       "romtype": "official",
       "version": "3.4",
-      "url": "https://sourceforge.net/projects/pixelstar/files/peridot/uday/pixelstar-3.4-uday-perifot-official-1224-20241024.zip/download"
+      "url": "https://sourceforge.net/projects/pixelstar/files/peridot/uday/pixelstar-3.4-uday-peridot-official-1756-20241025.zip/download"
     }
   ]
 }

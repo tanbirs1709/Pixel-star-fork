@@ -4,7 +4,11 @@ Device codename: peridot
 Device maintainer: ramshell688
 ```
 
-# October Update
+# Uday 3.4 HotFix
+- Fixed sensors not working
+- Some small changes
+
+# Uday 3.4 Update
 - Initial official release
 - Added Dolby Atmos
 - Added MiuiCamera
