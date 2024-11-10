@@ -14,6 +14,18 @@ Device maintainer: JYR_RC
 - Don't report bugs with custom kernels
 - Flash Global Firmware for better BB
 
+# v3.5 - Uday :
+- Integrity pass default
+- Based nov security patch
+- Bump to version 3.5
+- All sensors fixed
+- Update blobs v816.0.15.0 UNRMIXM
+- Upgrade stock kernel from miui_GARNETGlobal_OS1.0.15.0.UNRMIXM
+- Update vendor blobs from V816.0.15.0.UNRMIXM
+- Update CPU Frequency Scaling Max Values
+- Fixed miuicamera recording filters
+- Switch Oneplus dolby
+
 # v3.4 - Uday :
 - Integrity pass default
 - Based oct security patch

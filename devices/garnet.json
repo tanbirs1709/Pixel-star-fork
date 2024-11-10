@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1729367710,
-      "size": 2826629323,
-      "filehash": "b0531fc9a7a8bf03d51f3b1284f470ee",
-      "filename": "pixelstar-3.4-uday-garnet-official-1956-20241019.zip",
-      "id": "72fe9289edda20d0e5e6574200ea1f6c2e63ce700169cb9bbcda1ba4c926e5ff",
+      "datetime": 1731242136,
+      "size": 2940229551,
+      "filehash": "46069f20c6d4c7040ebf9fcdae9d5b49",
+      "filename": "pixelstar-3.5-uday-garnet-official-1236-20241110.zip",
+      "id": "824eeb28ad31748ecd53819459bde15a419f93edb7f5e527d4b7fb67dbc4941c",
       "romtype": "official",
-      "version": "3.4",
-      "url": "https://sourceforge.net/projects/pixelstar/files/garnet/uday/pixelstar-3.4-uday-garnet-official-1956-20241019.zip/download"
+      "version": "3.5",
+      "url": "https://sourceforge.net/projects/pixelstar/files/garnet/uday/pixelstar-3.5-uday-garnet-official-1236-20241110.zip/download"
     }
   ]
 }
