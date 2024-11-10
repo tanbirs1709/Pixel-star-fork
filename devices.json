@@ -5,14 +5,14 @@
       "vendor": "Xiaomi",
       "model": "Xiaomi Poco F4",
       "maintainer_name": "Mudit",
-      "active": true
+      "active": false
     },
     {
       "codename": "lemonades",
       "vendor": "OnePlus",
       "model": "OnePlus 9R",
       "maintainer_name": "Tanuj Dhama",
-      "active": true
+      "active": false
     },
     {
       "codename": "peridot",
@@ -26,7 +26,7 @@
       "vendor": "Redmi",
       "model": "Redmi Note 10 ",
       "maintainer_name": "Noah",
-      "active": true
+      "active": false
     },
     {
 	"codename": "hanoip",
@@ -40,21 +40,21 @@
       "vendor": "Poco",
       "model": "Poco X5 5g",
       "maintainer_name": "taki",
-      "active": true
+      "active": false
         },
     {
       "codename": "sakura",
       "vendor": "Redmi",
       "model": "Redmi 6 Pro",
       "maintainer_name": "achu",
-      "active": true
+      "active": false
         },
     {
       "codename": "cupidr",
       "vendor": "Realme",
       "model": "Realme GT 5G",
       "maintainer_name": "MNoxx74",
-      "active": true
+      "active": false
         },
     {
       "codename": "spartan",
@@ -68,24 +68,24 @@
       "vendor": "Xiaomi",
       "model": "Poco F5 / Redmi Note 12T",
       "maintainer_name": "Chaitanya",
-      "active": true
+      "active": false
         },
     {
       "codename": "miatoll",
       "vendor": "Xiaomi",
       "model": "Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite / POCO M2 Pro",
       "maintainer_name": "westpain",
-      "active": true
+      "active": false
         },
     {
       "codename": "ice",
       "vendor": "Realme",
       "model": "Realme 9 Speed edition 5G",
       "maintainer_name": "Abhayabhi4721",
-      "active": true
+      "active": false
         },
     {
-      "codename": "veux/peux",
+      "codename": "veux",
       "vendor": "Xiaomi",
       "model": "Redmi Note 11 Pro + 5G / Poco X4 Pro 5G",
       "maintainer_name": "Rex",
@@ -110,7 +110,7 @@
       "vendor": "Poco",
       "model": "Redmi Note 12 Pro SE 5G / Poco X5 Pro 5G",
       "maintainer_name": "RDX463",
-      "active": true
+      "active": false
       },
       {
         "codename": "sweet",
