@@ -2,11 +2,19 @@
   "team": [
     {
       "name": "Mudit",
-      "role": "Founder & Lead Developer",
+      "role": "Founder & Ex-Lead Developer",
       "socials": {
         "github": "Mudit200408",
         "telegram": "Mudit1808",
       }
     }
+        {
+      "name": "Amrita Das",
+      "role": "Lead Developer",
+      "socials": {
+        "github": "takixamru",
+        "telegram": "Amritokun",
+        "xda": ""
+      }
+    }
   ]
-}
