@@ -1,5 +1,19 @@
 # Source Changelog #
 
+## v3.5-Uday ##
+- Merged November Patch (credits: [Lineage OS](https://github.com/lineageos))
+- Fix Selinux Permissive Visual Bug
+- Fix Sensors Not Working Especially Gyroscope
+- Add nano_recovery support
+- Add Multiple APNs By Default
+- fix for carriers using 5 bars of signal
+- Use Material icons for missed calls in status bar Notifications
+- Remove unnecessary videos To clean some storage
+- Add Prebuilt Custom Apps
+- Improve contextual dashboard messages
+- Various Optimization and under the hood changes
+- Updated Wallpaper 
+
 ## v3.4-Uday ##
 - Merged October Patch (credits: [Lineage OS](https://github.com/lineageos))
 - Add 24 hrs. option to snooze times
