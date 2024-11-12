@@ -1,8 +1,18 @@
 ```
 Device name: Redmi Note 12 Pro SE 5G / Poco X5 Pro 5G
 Device codename: redwood
-Device maintainer: RDX463
+Device maintainer: Thereache
 ```
+
+# Update 12/11/2024
+- Update blobs to V816.0.7.0.UMSMIXM
+- Turbo Kernel 5.4.284-KernelSU Included
+- NFC Issue Fixed
+- Signed Build
+- Dolby Included
+- Show min/peak refreshrate settings
+- Status Bar Padding Fixed
+- Many More Chack it out Your self
 
 # Changelogs
 - Initial Official QPR3 build
@@ -13,5 +23,4 @@ Device maintainer: RDX463
 - Added devices as web cam
 - FTS Panel not supported
 
-Credits
-• Thanks to all members and devs of redwood community
+[Credits](https://gist.githubusercontent.com/Thereache/076e4f2a71425336318b5a2d196fc10f/raw/85254c7de484341b5af49941fecb9b5cc89f09a6/gistfile1.txt)

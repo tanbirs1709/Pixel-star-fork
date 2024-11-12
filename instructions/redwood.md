@@ -1,23 +1,39 @@
 ```
 Device name: Poco X5 Pro 5G / Redmi Note 12 Pro SE 5G
 Device codename: redwood
-Device maintainer:  RDX463
+Device maintainer:  Thereache
 ```
 
-# Method:
+# Flashing Method:
 
-1.Reboot to Fastboot
-2.Flash boot.img and vendor_boot.img
-3.Reboot to recovery
-4.Format Data
-5.adb sideload <file_dragndrop>.zip
-6.You can flash your respective firmware if you want on this step
-7.Reboot
+1.) Download the boot , dtbo  and vendor_boot images  l
+2.) Connect To Pc
+
+3.) Reboot to fastboot  ( press  both power_button_key + vol_down_key ) and follow the steps as given below.
+
+	fastboot flash vendor_boot  vendor_boot.img
+
+	fastboot flash dtbo dtbo.img 
+
+  	fastboot flash boot boot.img
+
+	fastboot reboot recovery
+
+	Select Wipe Data/factory Reset & Confirm
+
+	Select 'apply Update' From Adb
+
+	adb sideload  Rom_Name.zip
+
+	Select Wipe Data/factory Reset & Confirm
+
+	After Installation Complete, Reboot System.
+
+	( optional ). Reboot to recovery to sideload any add-ons ( e.g magisk, firmware, gapps etc )
 
 # Downloads:
 
-* ROM: [Download](https://sourceforge.net/projects/pixelstar/files/redwood/uday/pixelstar-3.0-uday-redwood-official-1745-20240721.zip/download)
-* Recovery: [Download](https://sourceforge.net/projects/pocox5pro/files/PIXELSTAR/RECOVERY%20FILES/)
+* ROM: [Download](https://sourceforge.net/projects/pixelstar/files/redwood/)
 
 ## Note:
 
