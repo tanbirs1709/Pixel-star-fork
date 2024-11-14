@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": 1730201245,
-      "size": 2984189108,
-      "filehash": "bbeb995e764e503df70d311358181d84",
-      "filename": "pixelstar-3.4-uday-sweet-official-1129-20241029.zip",
-      "id": "6b53c53a94fc10597620076fd46a173f6a259aaffb6e444623eee43e2659476c",
+      "datetime": 1731414271,
+      "size": 2985711205,
+      "filehash": "a14d49677d03a8394e5f9f55ec308ef4",
+      "filename": "pixelstar-3.5-uday-sweet-official-1226-20241112.zip",
+      "id": "6ee8c3763c32a48342089cfeea331666d69252ce00d3a04334257d82dbccd746",
       "romtype": "official",
-      "version": "3.4",
-      "url": "https://sourceforge.net/projects/pixelstar/files/sweet/uday/pixelstar-3.4-uday-sweet-official-1129-20241029.zip/download"
+      "version": "3.5",
+      "url": "https://sourceforge.net/projects/pixelstar/files/sweet/uday/pixelstar-3.5-uday-sweet-official-1226-20241112.zip/download"
     }
   ]
 }
