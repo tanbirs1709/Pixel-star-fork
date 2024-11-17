@@ -125,6 +125,13 @@
         "model": "Xiaomi 11 Lite 5G NE / Mi 11 LE",
         "maintainer_name": "ZAID KHANs",
         "active": true
+      },
+      {
+        "codename": "vermeer",
+        "vendor": "Xiaomi",
+        "model": "Poco F6 Pro / Redmi K70",
+        "maintainer_name": "Lunark :3",
+        "active": true
       }
   ]
 }
