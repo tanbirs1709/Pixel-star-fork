@@ -1,7 +1,7 @@
 ` ` `
 Device: Redmi Note 11 Pro + 5G / Poco X4 Pro 5G 
 Device code name : veux/peux
-Device maintainer: Prathamk07
+Device maintainer: Prathamk07 x Amrito Das
 ` ` `
 
 # Notes:
@@ -10,6 +10,18 @@ Device maintainer: Prathamk07
 - No Heating issues were found in testing
 - Clean flash is recommended
 - Display section in settings crashes. Don't repetedly report the same bug.
+
+# November Update(23-11-2024) :
+- Switched to @Takixamru's Trees
+- Kanged Carrier Config From Nothing
+- Dolby Does Present But Dirac is there
+- Ships with paimon kernel
+- ClearAudio has an easter egg 
+- Upgrade to latest sources
+- Kernel Upreved To - 5.4.282
+- Fixed Flickering in 90HZ In some display panels
+- Assume the panel is OLED
+- KernelSU is not present in the kernel
 
 # October Update(18-10-2024) :
 - Bring back wallpaper zooming
